@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "799786844269",
+    "firebase_url": "https://fukuoka-f4318-default-rtdb.firebaseio.com",
+    "project_id": "fukuoka-f4318",
+    "storage_bucket": "fukuoka-f4318.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799786844269:android:52b019947d527693a0bf64",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCttInyBDOVII7QLBrlQVsBl6RQTg3Ggj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
