@@ -1,4 +1,6 @@
-# Fukuoka Glucose Sensor Code
+# Team 5: Fukuoka Glucose Sensor Code
+
+Authors of this repo are Eddie Phillips, Ammar Ali, Nicholas Herrera, and Dalton Kasmiersky
 
 The arduino directory contains the code that we would upload to the ESP-32 module on our PCB using Android Studio. The rest of the folders/files exist to support the glucose sensor mobile app. To run the app, run `flutter emulators --launch [EMULATOR]`, once the emulator launches run `flutter run` 
 
